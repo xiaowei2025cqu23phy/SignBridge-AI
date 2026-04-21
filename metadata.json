@@ -1,0 +1,5 @@
+{
+  "name": "SignBridge AI",
+  "description": "An interactive sign language translator using Gemini AI to interpret camera frames in real-time.",
+  "requestFramePermissions": ["camera"]
+}
